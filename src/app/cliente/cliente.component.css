@@ -1,0 +1,12 @@
+.no-data{
+    text-align: center;
+}
+
+.no-data-img{
+    max-width: 250px;
+}
+
+.no-data-span{
+    display: block;
+    color: gray;
+}
